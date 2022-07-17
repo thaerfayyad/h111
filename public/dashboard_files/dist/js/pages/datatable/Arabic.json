@@ -1,0 +1,25 @@
+
+
+{
+	"sEmptyTable":   	"فارغالحقل ",
+	"sInfo":         	"_بداية_ في  _النهاية_ في _كل_ نهاية",
+	"sInfoEmpty":    	"0 bis 0 von 0 Einträgen",
+	"sInfoFiltered": 	"(gefiltert von _MAX_ Einträgen)",
+	"sInfoPostFix":  	"",
+	"sInfoThousands":  	".",
+	"sLengthMenu":   	"_MENU_ Einträge anzeigen",
+	"sLoadingRecords": 	"جاري التحميل...",
+	"sProcessing":   	"جاري المعالجة...",
+	"sSearch":       	"بحث",
+	"sZeroRecords":  	"لا يوجد بيانات.",
+	"oPaginate": {
+		"sFirst":    	"الاول",
+		"sPrevious": 	"السابق",
+		"sNext":     	"التالي",
+		"sLast":     	"الاخير "
+	},
+	"oAria": {
+		"sSortAscending":  ": تصاعدي",
+		"sSortDescending": ": تنازلي"
+	}
+}
